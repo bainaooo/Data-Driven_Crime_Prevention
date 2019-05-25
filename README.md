@@ -4,9 +4,9 @@ Having the ability to forecast crime statistics in a region can greatly benefit 
 ## Data Source
 ### https://crime-data-explorer.fr.cloud.gov/downloads-and-docs
 ## Instruction to Run
-Python Notebook (CrimeData.ipynb)
-•	Extract all contents of the project .zip file into any folder on your computer but do not change the directory structure within the extracted folder.
-•	Ensure you install the following Python packages before running:
+### Python Notebook (CrimeData.ipynb)
+#### •	Extract all contents of the project .zip file into any folder on your computer but do not change the directory structure within the extracted folder.
+#### •	Ensure you install the following Python packages before running:
 o	glob
 o	string
 o	pandas
